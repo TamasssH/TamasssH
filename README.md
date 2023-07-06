@@ -1,1 +1,1 @@
--Hello i am Tamas Hertogs and i study software development.
+Hi, i am tamas and i study gmaedevelopment.
