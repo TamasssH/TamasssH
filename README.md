@@ -1,1 +1,2 @@
-Hi, i am tamas and i study game development.
+# Hi!
+## I am Tamas Hertogs and i study game development.
